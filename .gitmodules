@@ -1,0 +1,6 @@
+[submodule "plugins/nvm-auto"]
+	path = plugins/nvm-auto
+	url = https://github.com/dijitalmunky/nvm-auto
+[submodule "plugins/zsh-syntax-highlighting"]
+	path = plugins/zsh-syntax-highlighting
+	url = https://github.com/zsh-users/zsh-syntax-highlighting.git
